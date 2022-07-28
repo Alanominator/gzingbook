@@ -1,3 +1,12 @@
 {
-    "test": "Hello world"
+    "header": {
+        "navigation": {
+            "main": "main",
+            "shop": "shop"
+        },
+        "account": "account",
+        "cart": "cart",
+        "searchInput__placeholder": "Type something"
+    },
+    "footer": {}
 }
