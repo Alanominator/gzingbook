@@ -1,0 +1,12 @@
+{
+    "header": {
+        "navigation": {
+            "main": "هناخ",
+            "shop": "هاگشورف"
+        },
+        "account": "دورو /مان تبث",
+        "cart": "دیرخ دبس",
+        "searchInput__placeholder": "کتاب مورد نظرتان را جستجو کنید:"
+    },
+    "footer": {}
+}
